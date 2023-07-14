@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Suitmedia</string>
+    <string name="check">CHECK</string>
+    <string name="next">NEXT</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="isPalindromeOrNot">Palindrome or not?</string>
+    <string name="isPalindrome">Is palindrome</string>
+    <string name="notPalindrome">Not palindrome</string>
+    <string name="ok">ok</string>
+    <string name="welcome">Welcome</string>
+    <string name="username">Username</string>
+    <string name="select_username">Select a username</string>
+    <string name="choose_user">Choose a user</string>
+    <string name="firstname">Firstname</string>
+    <string name="lastname">Lastname</string>
+    <string name="dummy_email">email@gmail.com</string>
+    <string name="palindrome">Palindrome</string>
+</resources>
